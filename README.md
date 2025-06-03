@@ -53,14 +53,5 @@ pip install pandas scikit-learn streamlit
 - `streamlit_dashboard.py`: Script for the interactive Streamlit dashboard.
 - `README.md`: This documentation file.
 
-## Future Improvements
-- Add multiple machine learning models (e.g., Random Forest, SVM) for comparison.
-- Implement additional interactive filters for service-related features.
-- Enhance visualizations with custom color schemes or additional metrics like ROC curves.
-
-## Acknowledgments
-- Inspired by the tutorial [End-to-End Machine Learning Project: Telco Customer Churn](https://towardsdatascience.com/end-to-end-machine-learning-project-telco-customer-churn-90744a8df97d).
-- Dataset provided by [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-
 ## Contact
-For questions or feedback, feel free to reach out via [your contact info or GitHub profile].
+For questions or feedback, feel free to reach out via [mustafa.ghaedi@gmail.com].
